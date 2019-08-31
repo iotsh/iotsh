@@ -1,0 +1,18 @@
+# This file describes your project. It's used to generate api docs and
+# clients. All fields in this file won't affect nirvana configurations.
+
+project: iotsh
+description: This project uses nirvana as API framework
+schemes:
+- http
+hosts:
+- localhost:8080
+contacts:
+- name: nobody
+  email: nobody@nobody.io
+  description: Maintain this project
+versions:
+- name: v1
+  description: The v1 version is the first version of this project
+  rules:
+  - prefix: /apis/v1/
