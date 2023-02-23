@@ -18,7 +18,7 @@ require (
 	github.com/prometheus/client_golang v1.1.0 // indirect
 	github.com/spf13/cobra v0.0.5 // indirect
 	github.com/spf13/viper v1.4.0 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
 
 go 1.13
